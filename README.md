@@ -1,2 +1,0 @@
-# .github
-Know The Organization
