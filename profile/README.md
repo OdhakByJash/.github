@@ -14,18 +14,8 @@ It reflects the core focus of this space — uncovering, verifying, and working 
 
 ---
 
-## 📌 Purpose
-
-To document and share progress in building secure and intelligent systems that deal with **who we are** — through signatures, faces, fingerprints, and more.
-
----
-
 ## 🛠 Maintained By
 
 **Jash Upadhyay**
 B.Tech in Computer Engineering
 [GitHub Profile](https://github.com/bitsbuild)
-
----
-
-> Built with curiosity, care, and a focus on identity.
